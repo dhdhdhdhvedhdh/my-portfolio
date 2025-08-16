@@ -3,10 +3,10 @@ export default function Page() {
     <main className="min-h-screen px-6 py-16 sm:px-10">
       <section className="max-w-5xl mx-auto">
         <h1 className="text-5xl sm:text-7xl font-bold leading-[1.1] tracking-tight">
-          김다혜 포트폴리오
+          KIM DAHYE
         </h1>
         <p className="mt-5 text-lg sm:text-xl text-neutral-600">
-          패키지 디자인 · 브랜딩 · 웹 경험 디자인을 만든다.
+          디자인으로 브랜드의 첫 인상을 보여줍니다.
         </p>
 
         <div className="mt-8 flex flex-col sm:flex-row gap-3">
